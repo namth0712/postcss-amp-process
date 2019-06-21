@@ -1,6 +1,6 @@
 {
   "name": "postcss-amp-process",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "PostCSS plugin Process css for AMP with twig",
   "keywords": [
     "postcss",
